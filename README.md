@@ -29,6 +29,15 @@ This project features:
 
 ---
 
+## Planned Improvements
+
+- ✅ AES encryption for stored passwords
+- ⏳ Password expiration or timestamps
+- 🔐 Master password reset feature
+- 🧪 Unit tests & better input validation
+
+---
+
 ## 📦 How to Run
 
 1. Set up a local MySQL database named `passmanager`  
